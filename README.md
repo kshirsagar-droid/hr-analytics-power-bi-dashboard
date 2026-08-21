@@ -4,7 +4,7 @@ An interactive HR Analytics dashboard built in Power BI to analyze employee
 attrition across departments, age groups, salary slabs, education, and tenure.
 
 ## Dashboard Preview
-![HR Analytics Dashboard](dashboard_overview_hr.png)
+![HR Analytics Dashboard](dashboard_overview_sales.png)
 
 ## Key Metrics
 - Count of Employees: 1,480
